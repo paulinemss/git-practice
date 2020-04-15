@@ -1,0 +1,3 @@
+Name: Pauline
+Age: 26
+Favorite Color: Pink
